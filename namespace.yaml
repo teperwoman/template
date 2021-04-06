@@ -1,0 +1,7 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: angular
+
+######Affichage des namespaces:
+### kubectl get namespace
